@@ -1,0 +1,5 @@
+C:\Users\wesle\OneDrive\employment\HouseholdSorter\HouseholdSorter\bin\Release\HouseholdSorter.exe.config
+C:\Users\wesle\OneDrive\employment\HouseholdSorter\HouseholdSorter\bin\Release\HouseholdSorter.exe
+C:\Users\wesle\OneDrive\employment\HouseholdSorter\HouseholdSorter\bin\Release\HouseholdSorter.pdb
+C:\Users\wesle\OneDrive\employment\HouseholdSorter\HouseholdSorter\obj\Release\HouseholdSorter.exe
+C:\Users\wesle\OneDrive\employment\HouseholdSorter\HouseholdSorter\obj\Release\HouseholdSorter.pdb

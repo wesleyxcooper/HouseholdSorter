@@ -1,0 +1,6 @@
+C:\Users\wesle\OneDrive\employment\HouseholdSorter\HouseholdSorter\bin\Debug\HouseholdSorter.exe.config
+C:\Users\wesle\OneDrive\employment\HouseholdSorter\HouseholdSorter\bin\Debug\HouseholdSorter.exe
+C:\Users\wesle\OneDrive\employment\HouseholdSorter\HouseholdSorter\bin\Debug\HouseholdSorter.pdb
+C:\Users\wesle\OneDrive\employment\HouseholdSorter\HouseholdSorter\obj\Debug\HouseholdSorter.csprojResolveAssemblyReference.cache
+C:\Users\wesle\OneDrive\employment\HouseholdSorter\HouseholdSorter\obj\Debug\HouseholdSorter.exe
+C:\Users\wesle\OneDrive\employment\HouseholdSorter\HouseholdSorter\obj\Debug\HouseholdSorter.pdb
